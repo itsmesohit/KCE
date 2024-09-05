@@ -15,6 +15,7 @@ This repository contains solutions to the programming problems covered in classr
 ## 📁 Directory Structure
 
 The repository is organized into folders by topics and chapters. Here's an example structure:
+
 Day-1 |
     - ProblemName.java
 Day-2 |
@@ -30,4 +31,4 @@ To use the code provided in this repository:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/classroom-code-solutions.git
+   git clone https://github.com/itsmesohit/KCE.git
