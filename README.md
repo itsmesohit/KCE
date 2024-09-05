@@ -18,6 +18,7 @@ The repository is organized into folders by topics and chapters. Here's an examp
 
 Day-1 |
     - ProblemName.java
+
 Day-2 |
     - ProblemName.java
 
