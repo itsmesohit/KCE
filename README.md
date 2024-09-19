@@ -7,7 +7,7 @@ Welcome to the official repository for the programming solutions taught and solv
 This repository contains solutions to the programming problems covered in classroom sessions. Each solution is provided in its respective folder, organized by topic or course. The goal is to provide reference material to help students understand and implement various coding concepts.
 This training is provided by **AlgoTutor**, a company dedicated to offering high-quality coding education and practice through their platform. Students can practice the problems on the **AlgoTutor Academy** platform as well.
 
-##📄Home Work
+## 📄 Home Work
 - Deep Dive into Functions
 - ArrayList
 - Array
