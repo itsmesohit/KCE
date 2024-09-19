@@ -8,10 +8,11 @@ This repository contains solutions to the programming problems covered in classr
 This training is provided by **AlgoTutor**, a company dedicated to offering high-quality coding education and practice through their platform. Students can practice the problems on the **AlgoTutor Academy** platform as well.
 
 ## 📄 Home Work
-- Deep Dive into Functions
+Hi everyone, this will be your home base before we move on to the next phase of classes.
+- Deep Dive into Functions( Important )
 - ArrayList
-- Array
-- String
+- Array (1D and 2D )
+- String and StringBuilder 
 - OOPs in Java (Most Important)
 
 
